@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gson-2.8.6">
+    <CLASSES>
+      <root url="jar://D:/gson-2.8.6.jar!/" />
+      <root url="jar://D:/okhttp-4.9.0.jar!/" />
+      <root url="jar://D:/retrofit-2.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
